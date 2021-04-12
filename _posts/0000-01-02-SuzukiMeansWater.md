@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Hooyah
+John is hot
 Use the left arrow to go back!
